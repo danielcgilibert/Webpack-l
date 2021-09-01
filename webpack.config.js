@@ -39,4 +39,5 @@ module.exports = {
     }, // abrir un overlay con errores
     compress: true, //comprime
   },
+  devtool: "source-map", // sirve para debuggear el código
 };

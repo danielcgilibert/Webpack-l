@@ -13,7 +13,7 @@ body {
 
 .container {
   border: 1px solid #fff;
-  color: black;
+  color: rgb(0, 0, 0);
   padding: 1rem;
   border-radius: 4px;
 }
